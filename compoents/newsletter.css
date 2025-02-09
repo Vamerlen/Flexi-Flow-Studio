@@ -1,0 +1,91 @@
+
+.newsletter {
+    background: var(--soft-green);
+    width: auto;
+    height: 865px;
+  }
+  
+  .newsletter-title {
+    font-family: Poppins, sans-serif;
+    font-weight: 700;
+    font-size: 1.625rem;
+    text-align: center;
+    padding: 130px 0 30px 0;
+  }
+  
+  .newsletter-hashtag {
+    font-family: 'Open Sans', sans-serif;
+    font-size: .9375rem;
+    font-weight: 700;
+    text-align: center;
+    margin: 30px 0 30px 0;
+  }
+  
+  .newsletter-desc {
+    font-family: 'Open Sans', sans-serif;
+    font-size: .9375rem;
+    text-align: center;
+    margin: 0 5px 52px 5px;
+  }
+  
+  .newsletter-label {
+    font-family: 'Open Sans';
+    font-size: 0.875rem;
+    font-weight: 400;
+    text-align: center;
+    margin: 0 0 18px 0;
+  }
+  
+  span.required-sign {
+    color: var(--bright-yellow);
+  }
+  
+  .newsletter-input {
+    width: 350px;
+    height: 40px;
+    outline: solid var(--charcoal) 1px;
+    border: none;
+    margin: 0 auto;
+    padding: 10px;
+  }
+  
+  .flabelname {
+    margin: 0 0 5px 18px;
+  }
+  
+  .fname {
+    margin: 0 0 5px 18px;
+  
+  }
+  
+  .llabelname {
+    margin: 0 0 5px 18px;
+  
+  }
+  
+  .lname {
+    margin: 0 0 5px 18px;
+  }
+  
+  .labelemail {
+    margin: 0 0 5px 18px;
+  
+  }
+  
+  .email {
+    margin: 0 0 5px 18px;
+  }
+  
+  
+  .newsletter-btn {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: .875rem;
+    width: 128px;
+    height: 46px;
+    background-color: var(--dark-grey);
+    color: var(--white);
+    outline: solid 1px var(--off-white);
+    display: block; 
+    margin: 30px 0px 0 18px;
+  }
